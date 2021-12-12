@@ -1,0 +1,21 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Carpboy Tech
+theme: ananke
+defaultContentLang: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+  ja:
+    languageName: Japanese
+    weight: 2
+
+params:
+  ananke_socials:
+    - name: twitter
+      url: https://twitter.com/koifish082
+    - name: github
+      url: https://github.com/koifish082
+#featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+#description: "The last theme you'll ever need. Maybe."
