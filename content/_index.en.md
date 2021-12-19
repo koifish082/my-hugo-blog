@@ -1,3 +1,3 @@
 ---
-description: "Hello"
+description: "Simple is the best"
 ---
