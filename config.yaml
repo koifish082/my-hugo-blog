@@ -1,6 +1,6 @@
 baseURL: https://boring-wiles-1323c9.netlify.app/
 languageCode: en-us
-title: Carpboy Tech
+title: Flying Body Tech
 theme: ananke
 defaultContentLang: en
 languages:
@@ -17,5 +17,5 @@ params:
       url: https://twitter.com/koifish082
     - name: github
       url: https://github.com/koifish082
-#featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: '/images/top-header.png'
 #description: "The last theme you'll ever need. Maybe."

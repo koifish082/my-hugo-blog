@@ -1,3 +1,3 @@
 ---
-description: "こんちわ"
+description: "Simple is the best"
 ---
